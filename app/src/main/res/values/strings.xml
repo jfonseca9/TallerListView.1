@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculadora Geometrica</string>
+    <string name="numero">#</string>
+    <string name="op">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="resultado">Resultado</string>
+    <string name="cuadrado">Area del Cuadrado</string>
+    <string name="lado">Lado del cuadrado (cm):</string>
+    <string name="rectangulo">Area del Rectangulo</string>
+    <string name="ladoRectangulo">Lado del rectangulo (cm):</string>
+    <string name="triangulo">Area del Triangulo</string>
+    <string name="baseTriangulo">Base del triangulo (cm):</string>
+    <string name="alturaTriangulo">Altura del triangulo (cm):</string>
+    <string name="circulo">Area del Circulo</string>
+    <string name="radioCirculo">Radio del circulo (cm):</string>
+    <string name="esfera">Volumen de la Esfera</string>
+    <string name="radioEsfera">Radio de la esfera (cm):</string>
+    <string name="cono">Volumen del Cono</string>
+    <string name="baseCono" >Base del cono (cm):</string>
+    <string name="alturaCono">Altura del cono(cm):</string>
+    <string name="cubo">Volumen del Cubo</string>
+    <string name="ladoCubo">Lado del cubo (cm):</string>
+    <string name="cilindro">Volumen del Cilindro</string>
+    <string name="radioCilindro">Radio del cilindro (cm):</string>
+    <string name="alturaCilindro">Altura del cilindro (cm):</string>
+</resources>
